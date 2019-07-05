@@ -28,7 +28,8 @@ migration of many cancers [1].",
 "doi": "10.1371/journal.pone.0149897",
 "references": ["pone.0149897.ref001"],
 "ref_pmid": 12490959
-}, …]```
+}, …]
+```
 
 * Metadata of referenced Object:
  * file: metadata_references_gt_100.csv
@@ -37,19 +38,23 @@ migration of many cancers [1].",
  * pubmed,article_title,year,authors,volume,issue,fpage,lpage,page_range
 
 * Sample Entry:
-```388439,Electrophoretic transfer of proteins from polyacrylamide gels to nitrocellulose sheets: procedure and some applications. ,1979,"[{""given-names"": ""H"", ""surname"": ""Towbin""}, {""given-names"": ""T"", ""surname"": ""Staehelin""}, {""given-names"": ""J"", ""surname"": ""Gordon""}]",76,9,4350,4354,```
+```csv
+388439,Electrophoretic transfer of proteins from polyacrylamide gels to nitrocellulose sheets: procedure and some applications. ,1979,"[{""given-names"": ""H"", ""surname"": ""Towbin""}, {""given-names"": ""T"", ""surname"": ""Staehelin""}, {""given-names"": ""J"", ""surname"": ""Gordon""}]",76,9,4350,4354,
+```
 
 * Metadata of citing Objects:
   * data in metadata.zip
   * Schema:
-```filename,doi,pmc,
+```csv
+filename,doi,pmc,
 pmid,publisher-id,has_relevant_contexts,
 article_title,year,abstract,
 wos_keyword,mas_title_kw,mas_abstract_kw,
 mas_num_kw_found,mas_num_matched_kw,
 mas_discipline,pone_discipline,
 pone_categories,wos_citationcount,
-cluster_topic_modeling```
+cluster_topic_modeling
+```
 
 
 
