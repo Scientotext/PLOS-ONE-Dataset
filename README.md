@@ -1,15 +1,14 @@
 ### Data from ISSI paper:
 # Highly cited references in PLOS ONE and their in-text usage over time
-* ***authors: *** Wolfgang Otto, Behnam Ghavimi, Philipp Mayr, RajeshPiryani, Vivek Kumar Singh
-* (*** link to preprint***)[https://arxiv.org/pdf/1903.11693.pdf]
+* **authors:** Wolfgang Otto, Behnam Ghavimi, Philipp Mayr, RajeshPiryani, Vivek Kumar Singh
+* (**link to preprint**)[https://arxiv.org/pdf/1903.11693.pdf]
 
 ## Description
-* Contexts and Metadata of referenced Publications are in file:
- * sciento_text_666.zip
-* Citation contexts:
- * file: contexts_ref_gt_100.json
-* contains all relevant contexts citing the top 666 referenced publications
-* Sample:
+### Contexts and Metadata of referenced Publications (**sciento_text_666.zip**)
+#### Citation contexts:
+ * **File:** contexts_ref_gt_100.json
+ * **Description:** contains all relevant contexts citing the top 666 referenced publications
+ * **Sample:**
 ```json
 [{
 "filename": "PMC4769282.nxml",
@@ -31,20 +30,17 @@ migration of many cancers [1].",
 }, …]
 ```
 
-* Metadata of referenced Object:
- * file: metadata_references_gt_100.csv
+#### Metadata of referenced Object:
+* **File:** metadata_references_gt_100.csv
+* **Fields:** pubmed,article_title,year,authors,volume,issue,fpage,lpage,page_range
 
-* Fields are: 
- * pubmed,article_title,year,authors,volume,issue,fpage,lpage,page_range
-
-* Sample Entry:
+* **Sample:**
 ```csv
 388439,Electrophoretic transfer of proteins from polyacrylamide gels to nitrocellulose sheets: procedure and some applications. ,1979,"[{""given-names"": ""H"", ""surname"": ""Towbin""}, {""given-names"": ""T"", ""surname"": ""Staehelin""}, {""given-names"": ""J"", ""surname"": ""Gordon""}]",76,9,4350,4354,
 ```
 
-* Metadata of citing Objects:
-  * data in metadata.zip
-  * Schema:
+### Metadata of citing Objects (**metadata.zip**)
+  * **Sample:**
 ```csv
 filename,doi,pmc,
 pmid,publisher-id,has_relevant_contexts,
