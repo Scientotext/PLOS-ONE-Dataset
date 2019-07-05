@@ -1,4 +1,4 @@
-### Data from ISSI paper:
+### Data from ISSI 2019 paper:
 # Highly cited references in PLOS ONE and their in-text usage over time
 * **authors:** Wolfgang Otto, Behnam Ghavimi, Philipp Mayr, RajeshPiryani, Vivek Kumar Singh
 * (**link to preprint**)[https://arxiv.org/pdf/1903.11693.pdf]
