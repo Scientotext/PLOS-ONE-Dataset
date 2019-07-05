@@ -1,10 +1,10 @@
 ### Data from ISSI 2019 paper:
 # Highly cited references in PLOS ONE and their in-text usage over time
-* **authors:** Wolfgang Otto, Behnam Ghavimi, Philipp Mayr, RajeshPiryani, Vivek Kumar Singh
-* (**link to preprint**)[https://arxiv.org/pdf/1903.11693.pdf]
+* **authors:** Wolfgang Otto, Behnam Ghavimi, Philipp Mayr, Rajesh Piryani, Vivek Kumar Singh
+* (**link to preprint**) [https://arxiv.org/pdf/1903.11693.pdf]
 
 ## Description
-### Contexts and Metadata of referenced Publications (**sciento_text_666.zip**)
+### Contexts and metadata of referenced publications (**sciento_text_666.zip**)
 #### Citation contexts:
  * **File:** contexts_ref_gt_100.json
  * **Description:** contains all relevant contexts citing the top 666 referenced publications
